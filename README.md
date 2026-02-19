@@ -1,6 +1,9 @@
-![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-yellow?style=for-the-badge)
-![VBA](https://img.shields.io/badge/VBA-Automation-blue?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+![Power Query](https://img.shields.io/badge/Tool-Power%20Query-yellow)
+
+![VBA](https://img.shields.io/badge/Tool-VBA-blue)
+
 ![Project](https://img.shields.io/badge/Project-Analytics-blue)
 
 ## Myntra Social Media Analytics
