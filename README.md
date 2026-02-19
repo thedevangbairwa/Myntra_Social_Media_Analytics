@@ -1,3 +1,6 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-Power-Query-VBA-green)
+![Project](https://img.shields.io/badge/Project-Analytics-blue)
+
 ## Myntra Social Media Analytics
 📌 Business Problem
 
