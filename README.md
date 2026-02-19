@@ -1,10 +1,7 @@
-![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)
-
-![Power Query](https://img.shields.io/badge/Tool-Power%20Query-yellow)
-
-![VBA](https://img.shields.io/badge/Tool-VBA-blue)
-
-![Project](https://img.shields.io/badge/Project-Analytics-blue)
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Power Query](https://img.shields.io/badge/Tool-Power%20Query-yellow)  
+![VBA](https://img.shields.io/badge/Tool-VBA-blue)  
+![Project](https://img.shields.io/badge/Project-Analytics-blue)  
 
 ## Myntra Social Media Analytics
 📌 Business Problem
